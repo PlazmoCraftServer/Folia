@@ -226,6 +226,9 @@ even though there is no main thread anymore.
 The PATCHES-LICENSE file describes the license for api & server patches,
 found in `./patches` and its subdirectories except when noted otherwise.
 
+
+FORKED!!!
+
 The fork is based off of PaperMC's fork example found [here](https://github.com/PaperMC/paperweight-examples).
 As such, it contains modifications to it in this project, please see the repository for license information
 of modified files.
